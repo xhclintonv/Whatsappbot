@@ -1,5 +1,5 @@
 # Whatsapp bot
- sapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
+whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
 
 You will need an openai API key for AI features to work.
 
